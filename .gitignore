@@ -1,0 +1,28 @@
+# ...new file...
+# IDEs
+.idea/
+
+# Environment files
+.env
+
+# Project IntelliJ IDEA module file
+crew-ai.iml
+
+# Python common
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.venv/
+env/
+venv/
+
+# Build / packaging
+dist/
+build/
+*.egg-info/
+
+# macOS
+.DS_Store
+

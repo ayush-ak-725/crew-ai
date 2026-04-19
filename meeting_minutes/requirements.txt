@@ -1,0 +1,6 @@
+crewai==1.14.2
+crewai_tools==1.14.2
+faster_whisper==1.2.1
+pydantic==2.13.2
+pydub==0.25.1
+python-dotenv==1.2.2
